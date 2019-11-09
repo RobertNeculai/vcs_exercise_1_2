@@ -1,0 +1,1 @@
+fisier 4 creat print touch -m pentru multiple files
